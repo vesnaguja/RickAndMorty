@@ -1,0 +1,22 @@
+.body-cont {
+  background-image: url("../images/bg-img.png");
+  background-size: contain;
+  background-repeat: repeat-y;
+}
+
+#character-img {
+  border-radius: 50%;
+}
+
+.cont-info {
+  height: 100%;
+}
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+  display: none; 
+  margin-bottom: 30px;
+}
+
